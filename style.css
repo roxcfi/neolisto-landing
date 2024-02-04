@@ -1,0 +1,535 @@
+.landing-page {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 122px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(160, 170, 255) 100%);
+  }
+  
+  .landing-page .top-nav {
+    position: relative;
+    width: 1228.78px;
+    height: 119px;
+  }
+  
+  .landing-page .text-wrapper {
+    position: absolute;
+    width: 64px;
+    top: 31px;
+    left: 738px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #242424;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .div {
+    position: absolute;
+    width: 96px;
+    top: 35px;
+    left: 844px;
+    opacity: 0.5;
+    font-family: "Mulish", Helvetica;
+    font-weight: 400;
+    color: #242424;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    position: absolute;
+    width: 122px;
+    top: 35px;
+    left: 992px;
+    opacity: 0.5;
+    font-family: "Mulish", Helvetica;
+    font-weight: 400;
+    color: #242424;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    position: absolute;
+    width: 65px;
+    top: 35px;
+    left: 1155px;
+    opacity: 0.5;
+    font-family: "Mulish", Helvetica;
+    font-weight: 400;
+    color: #242424;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .logo {
+    position: absolute;
+    width: 123px;
+    height: 119px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .div-wrapper {
+    position: absolute;
+    width: 216px;
+    height: 50px;
+    top: 28px;
+    left: 123px;
+  }
+  
+  .landing-page .text-wrapper-4 {
+    position: absolute;
+    width: 214px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgb(206.34, 208.29, 255) 0%, rgb(8.98, 9.3, 16.85) 100%);
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 32px;
+    letter-spacing: 2.24px;
+    line-height: 56px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .header-text {
+    position: relative;
+    width: 1162.09px;
+    height: 353.72px;
+  }
+  
+  .landing-page .overlap {
+    position: absolute;
+    width: 1146px;
+    height: 225px;
+    top: 0;
+    left: 11px;
+  }
+  
+  .landing-page .enhance-skin-to-skin {
+    position: absolute;
+    width: 1146px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgb(214.1, 229.73, 255) 0%, rgb(94.32, 53.37, 255) 100%);
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 56px;
+  }
+  
+  .landing-page .magnify-preterm {
+    position: absolute;
+    width: 381px;
+    top: 160px;
+    left: 0;
+    font-family: "Mulish", Helvetica;
+    font-weight: 300;
+    color: #000000b2;
+    font-size: 21px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .landing-page .overlap-group {
+    position: absolute;
+    width: 249px;
+    height: 67px;
+    top: 287px;
+    left: 0;
+    border-radius: 55px;
+    box-shadow: 0px 4px 25px -1px #00000033;
+    backdrop-filter: blur(60px) brightness(100%);
+    -webkit-backdrop-filter: blur(60px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(217, 217, 217, 0.1) 100%);
+  }
+  
+  .landing-page .text-wrapper-5 {
+    position: absolute;
+    width: 111px;
+    top: 0;
+    left: 85px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #a0a9ff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .intro {
+    position: relative;
+    width: 1444px;
+    height: 269px;
+  }
+  
+  .landing-page .p {
+    position: absolute;
+    width: 952px;
+    top: 193px;
+    left: 229px;
+    font-family: "Mulish", Helvetica;
+    font-weight: 300;
+    color: #000000b2;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    position: absolute;
+    width: 829px;
+    top: 94px;
+    left: 283px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 56px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .wireless {
+    position: relative;
+    width: 1446px;
+    height: 569px;
+  }
+  
+  .landing-page .overlap-2 {
+    position: absolute;
+    width: 412px;
+    height: 464px;
+    top: 49px;
+    left: 156px;
+    border-radius: 60px;
+    box-shadow: 0px 4px 25px -1px #00000033;
+    backdrop-filter: blur(50px) brightness(100%);
+    -webkit-backdrop-filter: blur(50px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+  }
+  
+  .landing-page .supervise {
+    position: absolute;
+    width: 301px;
+    top: 160px;
+    left: 40px;
+    font-family: "Mulish", Helvetica;
+    font-weight: 300;
+    color: #7c7987;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .text-wrapper-7 {
+    position: absolute;
+    width: 250px;
+    top: 98px;
+    left: 40px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000b2;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 56px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .less-cables-less {
+    position: absolute;
+    width: 163px;
+    top: 48px;
+    left: 1156px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #939df9;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .pres-NEOLISTO {
+    position: absolute;
+    width: 614px;
+    height: 333px;
+    top: 128px;
+    left: 582px;
+    object-fit: cover;
+  }
+  
+  .landing-page .safety {
+    position: relative;
+    width: 1444px;
+    height: 569px;
+  }
+  
+  .landing-page .overlap-3 {
+    position: absolute;
+    width: 412px;
+    height: 464px;
+    top: 41px;
+    left: 892px;
+    border-radius: 60px;
+    box-shadow: 0px 4px 25px -1px #00000033;
+    backdrop-filter: blur(50px) brightness(100%);
+    -webkit-backdrop-filter: blur(50px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+  }
+  
+  .landing-page .improve-wireless {
+    position: absolute;
+    width: 324px;
+    top: 150px;
+    left: 38px;
+    font-family: "Mulish", Helvetica;
+    font-weight: 300;
+    color: #7d7987;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .landing-page .improve-safety {
+    position: absolute;
+    width: 324px;
+    top: 46px;
+    left: 44px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000b2;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .landing-page .img {
+    position: absolute;
+    width: 726px;
+    height: 269px;
+    top: 138px;
+    left: 71px;
+    object-fit: cover;
+  }
+  
+  .landing-page .user-patient {
+    position: relative;
+    width: 1444px;
+    height: 546px;
+  }
+  
+  .landing-page .overlap-4 {
+    position: absolute;
+    width: 412px;
+    height: 464px;
+    top: 0;
+    left: 67px;
+    border-radius: 60px;
+    box-shadow: 0px 4px 25px -1px #00000033;
+    backdrop-filter: blur(50px) brightness(100%);
+    -webkit-backdrop-filter: blur(50px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+  }
+  
+  .landing-page .gathering-and {
+    position: absolute;
+    width: 324px;
+    top: 130px;
+    left: 43px;
+    font-family: "Mulish", Helvetica;
+    font-weight: 300;
+    color: #7d7987;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .landing-page .users-focused {
+    position: absolute;
+    width: 311px;
+    top: 32px;
+    left: 39px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000b2;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .landing-page .pres-NEOLISTO-2 {
+    position: absolute;
+    width: 304px;
+    height: 293px;
+    top: 85px;
+    left: 766px;
+    object-fit: cover;
+  }
+  
+  .landing-page .team {
+    position: relative;
+    width: 1448px;
+    height: 926px;
+  }
+  
+  .landing-page .rox {
+    position: absolute;
+    width: 162px;
+    height: 162px;
+    top: 135px;
+    left: 179px;
+    object-fit: cover;
+  }
+  
+  .landing-page .text-wrapper-8 {
+    position: absolute;
+    width: 918px;
+    top: 883px;
+    left: 260px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 56px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .meet-the-team {
+    position: absolute;
+    width: 829px;
+    top: 0;
+    left: 305px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 56px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .roxane-COUFFITTE {
+    position: absolute;
+    width: 303px;
+    top: 193px;
+    left: 362px;
+    mix-blend-mode: overlay;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .landing-page .text-wrapper-9 {
+    position: absolute;
+    width: 393px;
+    top: 331px;
+    left: 781px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  
+  .landing-page .footer {
+    position: relative;
+    width: 1600px;
+    height: 432px;
+  }
+  
+  .landing-page .more-skin-to-skin {
+    position: absolute;
+    width: 399px;
+    top: 1232px;
+    left: 993px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #939df9;
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .pres-NEOLISTO-3 {
+    position: absolute;
+    width: 561px;
+    height: 78px;
+    top: 3369px;
+    left: 767px;
+    object-fit: cover;
+  }
+  
+  .landing-page .text-wrapper-10 {
+    position: absolute;
+    width: 371px;
+    top: 3506px;
+    left: 189px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 35px;
+  }
+  @media only screen and (min-width: 992px) {
+    body {
+      font-size: 16px;
+      width: 80%;
+      margin: auto;
+    }
+  }
+  
+  /* styles for tablet devices */
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    body {
+      font-size: 14px;
+      width: 90%;
+      margin: auto;
+    }
+  }
+  
+  /* styles for mobile devices */
+  @media only screen and (max-width: 767px) {
+    body {
+      font-size: 12px;
+      width: 100%;
+      margin: 0;
+    }
+  }
+  
